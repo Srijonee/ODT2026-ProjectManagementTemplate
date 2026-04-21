@@ -52,20 +52,22 @@ By the final review, this README should clearly show:
 # 1. Team Identity
 
 ## 1.1 Studio / Group Name
-`[Enter your group name]`
+BREADSTICK (F13)
 
 ## 1.2 Team Members
 
 | Name | Primary Role | Secondary Role | Strengths Brought to the Project |
 |---|---|---|---|
-| `[Student 1]` | `[Electronics / Coding / App / Fabrication / Mechanics]` | `[Role]` | `[Write here]` |
-| `[Student 2]` | `[Electronics / Coding / App / Fabrication / Mechanics]` | `[Role]` | `[Write here]` |
+| Aanvi Gupta | `[Electronics / Coding / App / Fabrication / Mechanics]` | `[Role]` |managing the circuiting, hands-on work, creativity, ideation, cycle|
+|Srijonee Mandal| `[Electronics / Coding / App / Fabrication / Mechanics]` | `[Role]` |coding, logic, ideation, ideas, creativity|
 
 ## 1.3 Project Title
-`[Enter the title of your project]`
+Not just a Gym Rat
 
 ## 1.4 One-Line Pitch
-`[Describe your project in one sentence]`
+An experience that combines at-home cardio with digital art.
+
+"You may be gymming and a rat, but you're doing a lot more than that." 
 
 ## 1.5 Expanded Project Idea
 In 1–2 paragraphs, explain:
@@ -75,7 +77,9 @@ In 1–2 paragraphs, explain:
 - what technologies are involved.
 
 **Response:**  
-`[Write here]`
+Our project involves converting a cycle into a Bluetooth mouse.
+It makes the boring motion of sitting at a desk and using a laptop all the more fun. It has an objective coolness factor because, as design students, it sparked excitedness and a sense of innocence in every person who learnt about our project.
+It involves using a simple door sensor to form a relation between the rpm of the cycle and the number of pixels we will travel on the screen. The potentiometer acts as a directionary cue on the movement of the handle of the cycle. The left and right handles of the cycle correspond to the right and left buttons of a mouse. Hence, simple concepts have been manifested to form a memorable experience.
 
 ---
 
@@ -101,7 +105,16 @@ Answer the following:
 - Why would someone want to try it again?
 
 **Response:**  
-`[Write here]`
+The experience is using an ordinary bicycle as a Bluetooth mouse to draw on a canvas.
+
+We want the participant to feel like 
+
+Someone would want to try it again to have a more solid grasp of the cycle as a drawing tool.
+
+
+2.1: Our project aims to create an immersive and interactive experience by combining something as simple and grounded as a cycle with a complex object, ie, our laptops which we use everyday. 
+
+2.2: The experience includes using the entire body coordination to create drawings onto a screen. We want them to feel a novel experience by combining two things which form a core part of our childhoods: cycles and drawing.
 
 ## 2.3 Design Persona
 Complete the sentence below:
@@ -109,26 +122,28 @@ Complete the sentence below:
 > We are designing this project as if we are a small creative studio making a **[toy / game / playable object / interactive experience]** for **[children / teens / adults / classmates / exhibition visitors / mixed audience]**.
 
 **Response:**  
-`[Write here]`
+We are designing this project as if we are a small creative studio making an interactive experience for a mixed audience.
 
 ---
 
 # 3. Inspiration
 
 ## 3.1 References
-List what inspired the project.
+Digital art-based applications
+Strrava
+Air bicycle
 
 | Source Type | Title / Link | What Inspired You |
 |---|---|---|
-| `[Toy / Board game / App / Video / Website / Object]` | `[Link or title]` | `[What did you learn or borrow?]` |
-| `[Toy / Board game / App / Video / Website / Object]` | `[Link or title]` | `[What did you learn or borrow?]` |
-| `[Toy / Board game / App / Video / Website / Object]` | `[Link or title]` | `[What did you learn or borrow?]` |
+|App|MS Paint|An interface for others to input|
+|App|Strava|Tracking physical movement to create digital paths|
+|Object|Air Cycles|Stationary device for physical activity|
 
 ## 3.2 Original Twist
 What makes your project original?
 
 **Response:**  
-`[Write here]`
+Our project is original because it combines cardio indoors with digital path drawing. 
 
 ---
 
@@ -144,37 +159,34 @@ Examples:
 - move object → sensor detects → sound/light response → player reacts
 
 **Response:**  
-`[Write here]`
+- click → pedal → steer → unclick → player has made a drawing
 
 ## 4.2 Intended Player / Audience
 
 | Question | Response |
 |---|---|
-| Who is this for? | `[Write here]` |
-| Age range | `[Write here]` |
-| Solo or multiplayer | `[Write here]` |
-| Expected duration of one round | `[Write here]` |
-| What should the player feel? | `[Write here]` |
-| Is explanation required before use? | `[Write here]` |
+| Who is this for? | Mixed audience |
+| Age range | anyone with the physical capability of cycling |
+| Solo or multiplayer | solo |
+| Expected duration of one round | 5 minutes |
+| What should the player feel? | Intrigued, motivated (to make the drawing) |
+| Is explanation required before use? | Minimal explanation, it should be mostly intuitive |
 
 ## 4.3 Player Journey
 Describe exactly how a player will use the project.
 
-1. **Approach:** `[How does the player first encounter it?]`
-2. **Start:** `[How do they begin?]`
-3. **First Action:** `[What do they do first?]`
-4. **Main Interaction:** `[What keeps happening during use?]`
-5. **System Response:** `[How does the project respond?]`
-6. **Win / Lose / End Condition:** `[How does one round end?]`
-7. **Reset:** `[How does the next round begin?]`
+1. **Approach:** `[How does the player first encounter it?]` Player approaches with interest.
+2. **Start:** `[How do they begin?]` They begin by getting on the cycle. Any confusion with the controls will be explained.
+3. **First Action:** `[What do they do first?]` They would cycle over to clear the canvas.
+4. **Main Interaction:** `[What keeps happening during use?]` Cycling.
+5. **System Response:** `[How does the project respond?]` The cursor moves along with their movement, creating a digital art piece.
+6. **Win / Lose / End Condition:** `[How does one round end?]` One round ends whenever the player is satisfied with their masterpiece. Saving of the same must be done manually using the computer keyboard.
+7. **Reset:** `[How does the next round begin?]`Another player can sit in the cycle and begin with a new canvas.
 
 ## 4.4 Rules of Play
 If your project is a game, list the rules clearly.
 
-- `[Rule 1]`
-- `[Rule 2]`
-- `[Rule 3]`
-- `[Rule 4]`
+N/A
 
 ---
 
@@ -183,24 +195,20 @@ If your project is a game, list the rules clearly.
 ## 5.1 Definition of “Playable”
 Your project will be considered complete only if these conditions are met.
 
-- [ ] `[Condition 1]`
-- [ ] `[Condition 2]`
-- [ ] `[Condition 3]`
-- [ ] `[Condition 4]`
-- [ ] `[Condition 5]`
+- Intuitive enough not to require extensive instruction
+- Allows freedom of exploration on-screen
+- Encourages participants to complete a self-set goal
 
 ## 5.2 Minimum Viable Version
 What is the smallest version of this project that still delivers the core experience?
 
 **Response:**  
-`[Write here]`
+The cycle acts like a Bluetooth mouse.
 
 ## 5.3 Stretch Features
 What features are nice to have but not essential?
 
-- `[Stretch feature 1]`
-- `[Stretch feature 2]`
-- `[Stretch feature 3]`
+- A more gameified interface
 
 ---
 
@@ -209,14 +217,14 @@ What features are nice to have but not essential?
 ## 6.1 Project Type
 Check all that apply.
 
-- [ ] Electronics-based
-- [ ] Mechanical
-- [ ] Sensor-based
+- [x] Electronics-based
+- [x] Mechanical
+- [x] Sensor-based
 - [ ] App-connected
 - [ ] Motorized
 - [ ] Sound-based
 - [ ] Light-based
-- [ ] Screen/UI-based
+- [x] Screen/UI-based
 - [ ] Fabricated structure
 - [ ] Game logic based
 - [ ] Installation / tabletop experience
@@ -233,7 +241,12 @@ Include:
 - app interaction if any.
 
 **Response:**  
-`[Write here]`
+A door sensor connected to the back wheel measures speed and distance → cursor moves in current direction
+A potentiometer connected to the steering → controls direction of cursors's movement on the x axis
+A push button → controls direction of cursors's movement on the y axis
+2 micro limit switches placed on the brakes → left and right click
+
+Cursor movements combined with click/unclick allow participants to draw on the interface as if they were using an actual Bluetooth mouse
 
 ## 6.3 Input / Output Map
 
@@ -259,7 +272,7 @@ Example:
 
 ```
 
-## 7.2 Labeled Build Sketch
+## 7.2 Labelled Build Sketch
 Add a sketch with labels showing:
 - structure,
 - electronics placement,
@@ -286,7 +299,7 @@ Add a sketch with labels showing:
 ## 8.1 Mechanical Features
 Check all that apply.
 
-- [ ] Gears
+- [x] Gears
 - [ ] Pulleys
 - [ ] Belt drives
 - [ ] Linkages
@@ -303,7 +316,7 @@ Check all that apply.
 Describe the mechanism and what it is meant to do.
 
 **Response:**  
-`[Write here]`
+The gears ensure that the knob of the potentiometer moves along with the steering of the cycle.
 
 ## 8.3 Motion Planning
 If something moves, explain:
@@ -314,7 +327,7 @@ If something moves, explain:
 - what could go wrong.
 
 **Response:**  
-`[Write here]`
+The cycle 
 
 ## 8.4 Simulation / CAD / Animation Before Making
 If your project includes mechanical motion, document the digital planning before fabrication.
@@ -417,7 +430,7 @@ Suggested sequence:
 
 ## 11.1 Is an app part of this project?
 - [ ] Yes
-- [ ] No
+- [x] No
 
 If yes, complete this section.
 
@@ -465,8 +478,15 @@ Insert a sketch or screenshot of the app interface.
 | Item | Quantity | In Kit? | Need to Buy? | Estimated Cost | Material / Spec | Why This Choice? |
 |---|---:|---|---|---:|---|---|
 | `[ESP32]` | `1` | `Yes` | `No` | `0` | `[Spec]` | `[Reason]` |
-| `[Item]` | `[Qty]` | `[Yes/No]` | `[Yes/No]` | `[Cost]` | `[Spec]` | `[Reason]` |
-| `[Item]` | `[Qty]` | `[Yes/No]` | `[Yes/No]` | `[Cost]` | `[Spec]` | `[Reason]` |
+|Jumper wires| `[Qty]` |yes|no| `[Cost]` | `[Spec]` | `[Reason]` |
+|Biycle|1|no|no| `[Cost]` | `[Spec]` | `[Reason]` |
+|Micro limit switches|2|yes|no| `[Cost]` | `[Spec]` | `[Reason]` |
+|Push button|1|yes|no| `[Cost]` | `[Spec]` | `[Reason]` |
+|Potentiometer|1|no|yes| `[Cost]` | `[Spec]` | `[Reason]` |
+|Door sensor|1|yes|no| `[Cost]` | `[Spec]` | `[Reason]` |
+|Electrical tape| `[Qty]` | `[Yes/No]` | `[Yes/No]` | `[Cost]` | `[Spec]` | `[Reason]` |
+|mdf fixture| `[Qty]` | `[Yes/No]` | `[Yes/No]` | `[Cost]` | `[Spec]` | `[Reason]` |
+
 
 ## 12.2 Material Justification
 Explain why you selected your main materials and components.
@@ -761,7 +781,7 @@ What did you learn about:
 What would you improve next?
 
 **Response:**  
-`[Write here]`
+We would probably work on a custom interface for the cycle to explore beyond simply making drawings.
 
 ---
 
