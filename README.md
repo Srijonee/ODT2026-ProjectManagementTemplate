@@ -209,18 +209,18 @@ What features are nice to have but not essential?
 ## 6.1 Project Type
 Check all that apply.
 
-- [ ] Electronics-based
+- [x] Electronics-based
 - [ ] Mechanical
-- [ ] Sensor-based
+- [x] Sensor-based
 - [ ] App-connected
 - [ ] Motorized
 - [ ] Sound-based
 - [ ] Light-based
-- [ ] Screen/UI-based
+- [x] Screen/UI-based
 - [ ] Fabricated structure
 - [ ] Game logic based
 - [ ] Installation / tabletop experience
-- [ ] Other: `[Write here]`
+- [x] Other: `Bluetooth`
 
 ## 6.2 High-Level System Description
 Explain how the system works in simple terms.
@@ -250,7 +250,7 @@ Include:
 | `Micro limit switches` | Input | `left click/right click.` |
 | `ESP32` | Processing | `establishes Bluetooth connection with laptop.` |
 | `Display]` | Output | `displays output in the form of a digital drawing.` |
-| `[Mechanical Assembly]` | Physical Action | `[Describe]` |
+
 
 ---
 
@@ -369,10 +369,10 @@ Insert a hand-drawn or software-made circuit diagram.
 
 | Question | Response |
 |---|---|
-| Power source | `[USB / battery / adapter / other]` |
-| Voltage required | `[Write here]` |
-| Current concerns | `[Write here]` |
-| Safety concerns | `[Write here]` |
+| Power source | `C-type cable to laptop (initially planned to use a power bank, but was incompatible as the power bank kept turning off.` |
+| Voltage required | `3V` |
+| Current concerns | `N/A` |
+| Safety concerns | `N/A` |
 
 ---
 
@@ -382,7 +382,7 @@ Insert a hand-drawn or software-made circuit diagram.
 
 | Tool / Platform | Purpose |
 |---|---|
-| `[MicroPython / Arduino / MIT App Inventor / CAD tool / other]` | `[Purpose]` |
+| `Thonny` | `Coding micropython to the ESP32.` |
 | `[Tool]` | `[Purpose]` |
 
 ## 10.2 Software Logic
@@ -398,7 +398,7 @@ Include:
 - reset behavior.
 
 **Response:**  
-`[Write here]`
+`It must take the input from the various components to coordinate the movement of the cursor, as well as right and left clicks.`
 
 ## 10.3 Code Flowchart
 Insert a flowchart showing your code logic.
@@ -428,7 +428,7 @@ Suggested sequence:
 
 ## 11.1 Is an app part of this project?
 - [ ] Yes
-- [ ] No
+- [x] No
 
 If yes, complete this section.
 
@@ -478,12 +478,12 @@ Insert a sketch or screenshot of the app interface.
 | `ESP32` | `1` | `Yes` | `No` | `0` | `[Spec]` | `[Reason]` |
 | `Door sensor` | `1` | `Yes` | `No` | `[Cost]` | `[Spec]` | `[Reason]` |
 | `Potentiometer` | `1` | `No` | `Yes` | `[Cost]` | `[Spec]` | `[Reason]` |
-| `Push button` | `1` | `Yes` | `No` | `\[Cost]` | `\[Spec]` | `\[Reason]` |
+| `Push button` | `1` | `Yes` | `No` | `[Cost]` | `\[Spec]` | `\[Reason]` |
 | `Micro limit switches` | `2` | `Yes` | `No` | `\[Cost]` | `\[Spec]` | `\[Reason]` |
-| `Wiring` | `~20` | `Yes` | `No` | `\[Cost]` | `\[Spec]` | `\[Reason]` |
-| `Cycle` | `1` | `No` | `No` | `\[Cost]` | `\[Spec]` | `\[Reason]` |
-| `Cycle stand` | `1` | `No` | `No` | `\[Cost]` | `\[Spec]` | `\[Reason]` |
-| `C-type cable` | `1` | `No` | `No` | `\[Cost]` | `\[Spec]` | `\[Reason]` |
+| `Wiring` | `~20` | `Yes` | `No` | `[Cost]` | `\[Spec]` | `\[Reason]` |
+| `Cycle` | `1` | `No` | `No` | `[Cost]` | `\[Spec]` | `\[Reason]` |
+| `Cycle stand` | `1` | `No` | `No` | `[Cost]` | `\[Spec]` | `\[Reason]` |
+| `C-type cable` | `1` | `No` | `No` | `[Cost]` | `\[Spec]` | `\[Reason]` |
 
 
 
@@ -503,7 +503,7 @@ Examples:
 
 | Item | Why Needed | Purchase Link | Latest Safe Date to Procure | Status |
 |---|---|---|---|---|
-| `Potentiometer` | `[Reason]` | `[Link]` | `[Date]` | `Received` |
+| `Potentiometer` | `To detect angle of steering.` | `[Link]` | `[Date]` | `Received` |
 | `[Item]` | `[Reason]` | `[Link]` | `[Date]` | `[Pending / Ordered / Received]` |
 
 ## 12.4 Budget Summary
@@ -538,7 +538,7 @@ Include:
 - how documentation will be maintained.
 
 **Response:**  
-`[Write here]`
+`Every bit of the project is done collaboratively, as both partners will sit together to work. While Aanvi takes care of more hand-on circuitry and putting together the build, Srijonee mainly focuses on the coding and logic. Documentation is step-by-step as far as possible.`
 
 ## 13.2 Task Breakdown
 
