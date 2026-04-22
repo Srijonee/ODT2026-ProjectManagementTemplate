@@ -687,7 +687,7 @@ Include:
 - revisions.
 
 **Response:**  
-`[Write here]`
+`Having planned the project through, individual components were first tested. Upon ensuring that they worked individually, they were situated on the cycle such that there would be minimal hinderance for movement while being convenient for whatever function they would serve. (Eg: Door sensor on the frame with its magnet on the wheel, or micro limit switches on the brakes.) A stand was also made so that the cycle would be stationary but retain the ability to pedal and steer. After this, the code was written, tested. and revised multiple times. The only component that remained to be attached was the potentiometer, which was done using MDF laser cut gears. This was then retested, and finalized.`
 
 ## 17.2 Build Photos
 Add photos throughout the project.
@@ -723,7 +723,7 @@ Example:
 Describe the final version of your project.
 
 **Response:**  
-`The final version of our project allows the participant to move the cursor`
+`The final version of our project allows the participant to move the cursor across the screen, click to select and draw on a canvas. The project can also be used across platforms and largely replace a traditional mouse functionally (though it would be inconvenient).`
 
 ## 18.2 What Works Well
 - `It creates intrigue and attracts participants.`
@@ -762,7 +762,7 @@ What did you learn about:
 - integration?
 
 **Response:**  
-`We learnt that each component had particular capabilities, which need to work in harmony with other aspects of our builds. While coding, those capabilities and limitations need to be taken into account.`
+`We learnt that each component had particular capabilities, which need to work in harmony with other aspects of our builds. While coding, those capabilities and limitations need to be taken into account. Extensive planning goes into a streamlined build.`
 
 ## 19.3 Design Reflection
 What did you learn about:
@@ -774,13 +774,13 @@ What did you learn about:
 - iteration?
 
 **Response:**  
-`[Write here]`
+`We learnt that there is a large need for open-ended interactive experiences.`
 
 ## 19.4 If You Had One More Week
 What would you improve next?
 
 **Response:**  
-`[Write here]`
+`We would probably try to find a better solution to the -dy problem. We may have also built a custom interface for the cycle to experiment within, and add an input for scrolling, to complete the mouse function.`
 
 ---
 
