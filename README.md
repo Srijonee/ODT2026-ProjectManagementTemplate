@@ -723,23 +723,23 @@ Example:
 Describe the final version of your project.
 
 **Response:**  
-`[Write here]`
+`The final version of our project allows the participant to move the cursor`
 
 ## 18.2 What Works Well
-- `[Point 1]`
+- `It creates intrigue and attracts participants.`
 - `[Point 2]`
 - `[Point 3]`
 
 ## 18.3 What Still Needs Improvement
-- `[Point 1]`
-- `[Point 2]`
-- `[Point 3]`
+- `Smoothness of cursor movement.`
+- `Ability to move downwards without toggle button.`
+- `Smoothness of gears between potentiometer and steering.`
 
 ## 18.4 What Changed From the Original Plan
 How did the project change from the initial idea?
 
 **Response:**  
-`[Write here]`
+`The original plan was to only add those parts required in operating a basic digital art software. The end result can replace most functions of a computer mouse. The toggle button to switch between dy and -dy was also added to make up for the mouse's inability to gauge direction (it accepts x,y but not NEWS).`
 
 ---
 
@@ -751,7 +751,7 @@ What slowed you down?
 How well did you manage time, tasks, and responsibilities?
 
 **Response:**  
-`[Write here]`
+`Our team had a clear understanding of the components required for the project and how they would work logically, early on in the process. We were slowed down mainly by the unavailability of resources at various points of time. However, the clearness made up for the delays, as division of labor became well defined.`
 
 ## 19.2 Technical Reflection
 What did you learn about:
@@ -762,7 +762,7 @@ What did you learn about:
 - integration?
 
 **Response:**  
-`[Write here]`
+`We learnt that each component had particular capabilities, which need to work in harmony with other aspects of our builds. While coding, those capabilities and limitations need to be taken into account.`
 
 ## 19.3 Design Reflection
 What did you learn about:
